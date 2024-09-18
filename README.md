@@ -27,6 +27,8 @@ Está tarea consiste en dibujar un circulo en el pixel más claro o más oscuro.
 
 Esta tarea consiste en modificar tres imágenes iguales inicialmente, se modifican los 3 canales de color, en la primera el rojo, en la segundo el verde y por el último el azul. En el caso de la primera imagen, en primera instancia los 2 canales se van a sumar a su máximo valor 255, asimismo el canal que modificamos en este caso el rojo, primero se va a invertir y a partir de un umbral de luminisidad se va poner el valor al maxímo 255 o al mínimo 0, viendose así la zonas iluminadas como la suma de los dos colores y las zonas no iluminadas se van a ver totalmente blancas. 
 
+Autores:
+
 Yeremay García Déniz
 
 Adonai Hernandez Bolaños
